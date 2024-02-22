@@ -1,7 +1,7 @@
 {
   "name": "pinterest-clone",
   "version": "0.1.0",
-  "homepage": "https://VRashi16.github.io/pixifi-app-react",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
